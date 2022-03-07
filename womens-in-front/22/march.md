@@ -1,11 +1,9 @@
 # March 2022
 
+<img width="100%" align='center' src="https://github.com/Pull-Request-Community/women-in-open-source/blob/main/womens-in-front/22/Component%2094%20(1).png">
 
 ### Full name:
 Orit Wasserman
-
-[1]: https://twitter.com/OritWas
-[2]: https://github.com/oritwas
 
 ### How did you start contribute to Open Source:
 As part of a my work on nested virtualization at IBM Research I started contributing to KVM/Qemu.
@@ -19,4 +17,6 @@ OpenShift Data Foundation: design and code reviews.
 It doesn't have to be perfect, it is more important to release often and early and it is ok to make mistakes.
 Take the leap and be heard. I know it is hard to get out there but we as women have so much to add to the community!
 Find a welcoming community there are much more today
-Ignore the critics and find a support group
+Ignore the critics and find a support group.
+
+[Twitter](https://twitter.com/OritWas), [Github](https://github.com/oritwas)
